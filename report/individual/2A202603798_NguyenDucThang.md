@@ -170,18 +170,19 @@ HIỆN TẠI — 15 phút/cụm video
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
-
+Sau khi nghe top 3 problems của các bạn khác, bản thân tôi đã tiếp thu được một số kiến thức liên quan đến mảng giáo dục của trưởng nhóm ví dụ như cách tối ưu chấm điểm nhiều bài kiểm tra viết(writing),... 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
-
+Nhóm không bị solution-first vì nhóm đã để cho người viết vấn đề trình bày trước rồi nhóm mới đưa ra ý kiến.
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
-
+Tôi không đổi ý mà vẫn giữ lập trường của riêng mình.
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
-
+Điều đấy không làm tôi bất ngờ vì tôi đã dự trù trước rồi.
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
-
+Điều khó nhất là tính toán dự tính chi phí ngân sách, thời gian tối ưu.
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
-
+Tôi sẽ giữ nguyên bởi vì vấn đề top nổi bật hơn tôi và nếu muốn tôi cần thay đổi problems nổi bật hơn, giải quyết được vấn đề tối ưu hơn, thực tế hơn.
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+Problem đại diện của nhóm giải quyết được vấn đề 
 
 ---
 
