@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — 20240001_NguyenVanA
+# Báo cáo cá nhân — 2A202603798-NguyễnĐứcThắng
 
 > Template chi tiết và prompt mẫu cho từng mục: [docs/01-worksheet.md](../../docs/01-worksheet.md).
 > Mỗi thành viên một file trong `report/individual/` trên repo nhóm: copy template này thành file mới, điền, rồi commit bằng tài khoản GitHub của bạn. Không viết hộ người khác.
