@@ -180,29 +180,16 @@ Tôi không đổi ý mà vẫn giữ lập trường của riêng mình.
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 Điều khó nhất là tính toán dự tính chi phí ngân sách, thời gian tối ưu.
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
-<<<<<<< HEAD
-
-**6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi _problem → quy trình → metric → boundary → mức can thiệp AI → quyết định_ của bài nhóm mình.
-=======
 Tôi sẽ giữ nguyên bởi vì vấn đề top nổi bật hơn tôi và nếu muốn tôi cần thay đổi problems nổi bật hơn, giải quyết được vấn đề tối ưu hơn, thực tế hơn.
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
-Problem đại diện của nhóm giải quyết được vấn đề 
->>>>>>> df0c921612410967a25cbd7b7ddb4d256f7c7258
+Đầu tiên, nhóm sẽ xác định vấn đề thực tế đang xảy ra, sau đó nhó sẽ bắt đầu phân tích để hiểu các vấn đề xảy ra ở đâu, nguyên nhân , đề ra giải pháp. Sau đó nhóm xác định các metric để đo lường sự hiệu quả của giải pháp, mức độ hài lòng của người dùng.Nhóm cũng xác định boundary để biết phạm vi AI được phép xử lý và những trường hợp cần có sự can thiệp của con người. Từ đó, nhóm đưa ra mức độ phù hợp với AI, xem AI có nên đề xuất hay hỗ trợ. Cuối cùng, nhóm quyết định có thực sự cần AI hay chỉ cần một giải pháp thông thường là đủ. Mục tiêu quan trọng nhất là giải quyết đúng vấn đề của người dùng, chứ không phải cố gắng đưa AI vào mọi tính năng.
 
 ---
 
 ## 7. Tài liệu tham khảo
-
-<<<<<<< HEAD
 1. Android Open Source Project, _Android Debug Bridge (adb) User Guide_, Google Developers.
 2. TikTok Shop Academy, _Hướng dẫn sáng tạo nội dung và gắn liên kết sản phẩm trong video ngắn dành cho Creator_, 2025.
 3. Shopee Affiliate Program, _Chính sách tiếp thị liên kết và quy chuẩn nội dung Shopee Video_, 2025.
 4. Teresa Torres, _Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value_, Product Talk LLC, 2021.
 5. Marty Cagan, _Inspired: How to Create Tech Products Customers Love_, Silicon Valley Product Group, Wiley, 2017.
-=======
-1. Android Open Source Project, *Android Debug Bridge (adb) User Guide*, Google Developers.
-2. TikTok Shop Academy, *Hướng dẫn sáng tạo nội dung và gắn liên kết sản phẩm trong video ngắn dành cho Creator*, 2025.
-3. Shopee Affiliate Program, *Chính sách tiếp thị liên kết và quy chuẩn nội dung Shopee Video*, 2025.
-4. Teresa Torres, *Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value*, Product Talk LLC, 2021.
-5. Marty Cagan, *Inspired: How to Create Tech Products Customers Love*, Silicon Valley Product Group, Wiley, 2017.
->>>>>>> df0c921612410967a25cbd7b7ddb4d256f7c7258
+
