@@ -157,15 +157,18 @@ RỦI RO: Quên hạn → Thanh toán trễ → Phát sinh phí phạt
 
 ### Card muốn pitch nhất
 
-- Card số:
-- Vì sao:
-- Câu hỏi muốn nhóm phản biện:
+- Card số: Card #2 – Tổng hợp và phân tích chi tiêu cá nhân
+- Vì sao: Đây là vấn đề mà nhiều sinh viên có thể gặp phải khi sử dụng nhiều phương thức thanh toán khác nhau như tiền mặt, ngân hàng và ví điện tử. Việc tổng hợp và phân loại các khoản chi thường mất thời gian, đặc biệt khi người dùng phải thực hiện thủ công. Vấn đề có quy trình rõ ràng, có thể đo lường thời gian xử lý và độ chính xác phân loại. Ngoài ra, AI có thể hỗ trợ trực tiếp ở công đoạn đọc, phân loại và tổng hợp dữ liệu
+- Câu hỏi muốn nhóm phản biện: Liệu việc sử dụng AI để phân loại và phân tích chi tiêu có thực sự mang lại giá trị hơn so với việc sử dụng Excel hoặc Google Sheets? Làm thế nào để đảm bảo AI phân loại giao dịch chính xác?
 
 ### AI đã phản biện card thế nào
 
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 |---|---|---|
-| | | |
+| Chưa xác định rõ nguồn dữ liệu đầu vào cho AI| Đồng ý| Bổ sung phương án người dùng tải file Excel/CSV hoặc nhập dữ liệu thủ công|
+| Chưa có tiêu chí đánh giá độ chính xác phân loại|Đồng ý|Bổ sung metric so sánh kết quả AI với dữ liệu được phân loại thủ công|
+|Chưa chứng minh AI tốt hơn Excel|Đồng ý|Làm rõ AI hỗ trợ tự động nhận diện và phân loại giao dịch thay vì yêu cầu người dùng nhập từng danh mục|
+|AI có thể phân loại sai giao dịch|Đồng ý|Bổ sung bước người dùng xác nhận hoặc chỉnh sửa kết quả|
 
 ---
 
@@ -173,16 +176,16 @@ RỦI RO: Quên hạn → Thanh toán trễ → Phát sinh phí phạt
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Trình bày Card #2 về việc tổng hợp và phân tích chi tiêu cá nhân| Giúp nhóm hiểu rõ khó khăn khi phải tổng hợp dữ liệu từ nhiều nguồn|
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: Người dùng có thực sự cần AI để giải quyết vấn đề này hay chỉ cần một ứng dụng nhắc việc thông thường?| Giúp thành viên xem xét lại tính cần thiết của AI|
+| Nhận phản biện | Câu hỏi tôi nhận được: AI lấy dữ liệu giao dịch từ đâu?| Tôi bổ sung phương án nhập thủ công và tải file CSV|
+| Gom cluster / cây OST | Tham gia nhóm các vấn đề liên quan đến quản lý tài chính, theo dõi chi tiêu và thanh toán| Giúp nhóm xác định các cơ hội giải quyết vấn đề|
+| Chọn candidate problem | So sánh mức độ nghiêm trọng, tần suất và khả năng ứng dụng AI của các vấn đề| Đề xuất vấn đề phân tích chi tiêu|
+| Kiểm chứng / research | Tìm hiểu cách sinh viên quản lý chi tiêu và các công cụ đang được sử dụng| Có cơ sở so sánh giải pháp AI với giải pháp truyền thống|
+| Quy trình nhóm | Tham gia mô tả các bước kiểm tra giao dịch, nhập dữ liệu và phân loại chi tiêu| Xác định công đoạn nhập và phân loại dữ liệu là điểm nghẽn|
+| Problem Statement | Tham gia xác định đối tượng, bối cảnh, nhu cầu và kết quả mong muốn| Giúp Problem Statement cụ thể hơn|
+| Mức can thiệp AI | Đề xuất AI tự động phân loại và phân tích, nhưng người dùng xác nhận kết quả| Xác định ranh giới giữa AI và người dùng|
+| Quyết định | Tham gia thảo luận và lựa chọn giải pháp AI hỗ trợ phân tích chi tiêu| Giúp nhóm thống nhất hướng phát triển|
 
 ---
 
@@ -190,12 +193,12 @@ RỦI RO: Quên hạn → Thanh toán trễ → Phát sinh phí phạt
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | | | | |
-| CP2 Problem Card | | | | |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP1 Scan | Tìm thêm các vấn đề thường gặp trong cuộc sống sinh viên| Gợi ý thêm các góc nhìn và vấn đề chưa nghĩ đến| Một số ý tưởng quá rộng, chưa có bằng chứng thực tế| Loại bỏ ý tưởng chung chung, giữ lại những vấn đề có quy trình cụ thể|
+| CP2 Problem Card | Hỗ trợ xây dựng Job Story, Bottleneck và Success Metric| Giúp hệ thống hóa nội dung theo cấu trúc Problem Card| Đưa ra một số số liệu chưa có nguồn kiểm chứng| Phân biệt số liệu minh họa với số liệu khảo sát thực tế|
+| CP4 Research | Hỗ trợ xác định thông tin cần tìm hiểu về thói quen chi tiêu| Gợi ý câu hỏi khảo sát và các yếu tố cần kiểm chứng| Chưa thể thay thế dữ liệu từ người dùng thật| Bổ sung khảo sát và phỏng vấn để kiểm chứng|
+| CP5 Quy trình | Mô tả các bước người dùng quản lý chi tiêu| Giúp trình bày quy trình theo thứ tự rõ ràng| Có thể đưa ra các bước không phù hợp với thói quen thực tế| Điều chỉnh quy trình dựa trên trải nghiệm và kết quả research|
+| CP5–6 Problem Statement | Hỗ trợ diễn đạt vấn đề và xác định nhu cầu người dùng| Giúp câu mô tả rõ ràng, tránh lan man| Một số câu vẫn tập trung vào giải pháp thay vì vấn đề| Viết lại theo hướng tập trung vào khó khăn của người dùng|
+| CP6 Mức can thiệp / quyết định | Phân tích mức độ phù hợp của AI trong quy trình| Giúp so sánh tự động hóa và AI Agent| Có xu hướng đề xuất AI can thiệp quá sâu| Giới hạn AI ở việc phân loại, phân tích và đề xuất; người dùng quyết định|
 
 ---
 
@@ -203,22 +206,34 @@ RỦI RO: Quên hạn → Thanh toán trễ → Phát sinh phí phạt
 
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
-**6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+**6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?** Tôi học được cách nhìn nhận vấn đề từ nhiều góc độ hơn vì không chỉ quản lý tiền bạc mà con người ta cũng cần quản lý thời gian, học tập, giao tiếp...
 
-**6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+**6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?** Nhóm đã chuyển từ tư duy "muốn xây dựng sản phẩm gì" sang "người dùng đang cần giải quyết vấn đề gì"
 
-**6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+**6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.** Ban đầu tôi cho rằng AI nên tự động phân loại toàn bộ giao dịch mà không cần người dùng kiểm tra. Sau đó, thành viên khác hỏi nếu AI phân loại sai thì sao?
 
-**6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+Tôi nhận ra AI không phải lúc nào cũng chính xác và quyết định bổ sung bước xác nhận kết quả.
 
-**6.5. Điều khó nhất khi viết Problem Statement là gì?**
+**6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?** Tôi nghĩ sinh viên gặp khó khăn chủ yếu vì không biết ghi chép chi tiêu. Nhưng sau khi khảo sát, tôi nhận ra nhiều người có ghi chép nhưng vẫn khó phân tích các khoản chi từ nhiều nguồn khác nhau.
 
-**6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
+Đây là một phát hiện có thể khiến nhóm thay đổi trọng tâm từ "ghi chép chi tiêu" sang "tổng hợp và phân tích chi tiêu"
 
-**6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+**6.5. Điều khó nhất khi viết Problem Statement là gì?** Ban đầu nhóm viết "Sinh viên cần một ứng dụng AI để quản lý tài chính".
+
+Nhưng đây là mô tả giải pháp, không phải vấn đề.
+
+Có thể chỉnh thành:
+
+"Sinh viên thường gặp khó khăn khi tổng hợp và phân loại các khoản chi từ nhiều nguồn thanh toán khiến họ mất thời gian và khó đánh giá thói quen tiêu dùng."
+
+**6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?** Nếu làm lại sẽ không chỉ hỏi người dùng có gặp khó khăn trong quản lý chi tiêu hay không mà còn hỏi họ đang xử lý vấn đề như thế nào, mất bao nhiêu thời gian và đã từng thử giải pháp nào
+
+
+**6.7. Hiểu bài: giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.** Đầu tiên, nhóm xác định vấn đề thực tế là sinh viên gặp khó khăn trong việc quản lý và tổng hợp các khoản chi tiêu cá nhân từ nhiều nguồn thanh toán khác nhau. Sau đó, nhóm phân tích quy trình hiện tại để hiểu người dùng đang quản lý chi tiêu như thế nào, những khó khăn xảy ra ở đâu và xác định công đoạn mất nhiều thời gian nhất. Tiếp theo, nhóm đưa ra các metric để đo lường hiệu quả của giải pháp, chẳng hạn như thời gian tổng hợp chi tiêu và độ chính xác khi phân loại các khoản giao dịch. Nhóm cũng xác định boundary để giới hạn phạm vi AI được phép xử lý, đồng thời xác định những công việc cần có sự kiểm tra và xác nhận của người dùng. Từ đó, nhóm lựa chọn mức độ can thiệp phù hợp, để AI hỗ trợ tự động phân loại, tổng hợp và phân tích chi tiêu, thay vì tự ý thực hiện các giao dịch tài chính. Cuối cùng, nhóm quyết định xây dựng trợ lý AI hỗ trợ quản lý chi tiêu cá nhân nhằm tiết kiệm thời gian và giúp người dùng kiểm soát tài chính tốt hơn. Mục tiêu quan trọng nhất là giải quyết đúng khó khăn thực tế của sinh viên, chứ không phải cố gắng đưa AI vào mọi hoạt động quản lý chi tiêu.
 
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+- [docs/01-worksheet.md](../../docs/01-worksheet.md): hướng dẫn chi tiết từng checkpoint, prompt phản biện Problem Card
+- [docs/02-deliverable-example.md](../../docs/02-deliverable-example.md): bài mẫu, dùng để học cách viết Job Story, Problem Card và quy trình nháp
