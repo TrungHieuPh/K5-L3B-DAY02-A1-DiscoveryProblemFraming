@@ -151,16 +151,16 @@ HIỆN TẠI — khoảng 40 phút/đề, 12 câu sai (ước tính)
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Pitch top 3 về Beacon Learner (case 4–6 trong bảng chung của nhóm), tập trung vào card #1 — Chấm và nhận xét Writing | Card #1 (case 4) được chọn làm candidate problem của nhóm |
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: **Việc vận hành một hệ thống tự động đăng bài sẽ giảm được bao nhiêu thời gian và kinh phí đổi lại là bao nhiêu** | **việc cho AI tự động thay thế con người thao tác các việc lặp đi lặp lại về công sức, thời gian giảm đi 90% công việc này hằng nhày, ngoài ra, chi phí bỏ ra so với tiền lương của nhân viên đổi lấy chi phí vận hành AI thì cũng sẽ cân bằng với nhau. Ngoài ra năng xuất còn tốt hơn** |
+| Nhận phản biện | Câu hỏi tôi nhận được: **việc chấm bài trực tiếp bằng AI thì sai số như thế nào** | Tôi đã sửa gì: **Việc sai số hoàn toàn sảy ra, nhưng chúng tôi sẽ hạn chế tối đa và trước khi đi vào vận hành, chúng tôi đều cho các giảng viên có kinh nghiệm trải nghiệm, đưa ra feedback hằng tuần hằng tháng để thay đổi tốt hơn** |
+| Gom cluster / cây OST | Cùng nhóm gom 9 case từ 3 bảng top 3 (bán hàng TikTok Shop/Shopee, Beacon Learner, chi tiêu cá nhân) thành 4 cluster, dựng cây OST rút gọn và chấm 7 tiêu chí; có nhờ AI chấm sơ bộ (xem mục 5) | Cluster A (soạn chữ lặp lại) và B (hiểu "vì sao" từ dữ liệu có sẵn) có chỗ cho AI; C (nhập liệu tay) và D (nhắc hạn) chỉ hợp làm ví dụ cho mức Rule. Cây OST ban đầu lấy outcome của case 5; đã dựng lại theo case 4 ở `group_report.md` mục 2.3 (AI soạn nháp, xem mục 5) |
+| Chọn candidate problem | Tôi chọn 1 case là case 4 — Chấm và nhận xét Writing, không gộp case 5 + 6 như AI đề xuất | Case 4 được 31 điểm, kém case 5 một điểm (32), nhưng cao hơn ở "Impact đo được" và "So sánh được 4 mức" (5 so với 4). Hai lý do AI dùng để loại case 4 đã có cách xử lý trong card #1: rủi ro chấm band → boundary "giáo viên tự chấm band"; actor chưa xác minh → actor đã có, vì tôi đang làm việc cùng team chuyên môn chấm bài Writing |
+| Kiểm chứng / research | Viết lại assumption map cho case 4 (6 giả định). Research bàn giấy 4 nguồn: Turnitin QuickMarks, Writable, Writing9, Koraishi (2024). **Chưa phỏng vấn giáo viên nào** | Có kịch bản phỏng vấn theo The Mom Test ở `group_report.md` mục 3.2, chưa có kết quả. Research làm problem đổi 3 chỗ: thêm mốc so sánh với bộ nhận xét mẫu, boundary "không có con số band nào trong nháp", bỏ hướng chấm band nhanh cho học viên |
+| Quy trình nhóm | Quy trình hiện tại 6 bước lấy từ card #1; quy trình tương lai 7 bước, đánh dấu Rule / AI / Con người | Bottleneck chuyển từ viết nhận xét (7') sang đọc bài (4'); khoảng 18' → 11'/bài, đều là ước tính (`group_report.md` mục 4) |
+| Problem Statement | PS v0 lấy từ card #1; PS v1 sửa theo phản biện và research | v1 đổi target từ dưới 10' thành dưới 12' cho khớp quy trình tương lai; thêm mốc so với bộ nhận xét mẫu; định nghĩa "viết lại" và cách đo độ lệch band; thêm 5 tiêu chí đánh giá đầu ra (`group_report.md` mục 5, 7) |
+| Mức can thiệp AI | So 4 mức cho case 4, chọn Workflow | Rule chỉ dùng cho bước đếm số từ; No AI giữ làm phương án quay về; Agent bị loại vì sai band ảnh hưởng thẳng tới học viên (`group_report.md` mục 6) |
+| Quyết định | Not Yet | Value ở mức Cao: actor đã có (team chuyên môn) nhưng chưa hỏi họ về thời gian và bước nào lâu nhất; có 4 việc cần kiểm trước và 4 ngưỡng dừng (`group_report.md` mục 8) |
 
 ---
 
@@ -170,10 +170,11 @@ HIỆN TẠI — khoảng 40 phút/đề, 12 câu sai (ước tính)
 |---|---|---|---|---|
 | CP1 Scan | Gợi ý problem theo 4 lăng kính và điền bảng scan | Ra nhanh 10 ý, gắn được với những tính năng sản phẩm đã phải làm | Hai bản đầu toàn việc kỹ thuật nội bộ; các con số thời gian là AI tự ước tính | Yêu cầu đổi sang vấn đề của người dùng thật; đánh dấu "ước tính" cho mọi con số chưa đo |
 | CP2 Problem Card | Soạn nháp 3 card và đóng vai PM hoài nghi phản biện card #1 | Chỉ ra actor còn chung, baseline chưa đo, metric chỉ đo tốc độ | Gợi ý để AI chấm band luôn | Giữ boundary giáo viên chấm band; thêm metric tỉ lệ nháp phải viết lại |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP3 Hội tụ nhóm | Cả nhóm đưa 3 bảng top 3 (9 case) cho AI nhận xét, gom cluster, dựng cây OST và chấm 7 tiêu chí | Chỉ ra dấu hiệu solution-first: case 1, 2 nêu tên công cụ và file code ngay trong tên problem, case 3, 8 đưa "AI" vào lý do chọn; 6/9 case chưa có con số nào. Gạch 2 solution đội lốt opportunity khỏi cây OST | AI tự ghi chú: điểm chỉ dựa vào chữ trong 3 bảng, và AI biết Beacon nhiều hơn hai domain kia nên case 4–6 có thể được lợi. Case 5 chỉ hơn case 4 có 1 điểm. AI đề xuất gộp case 5 + 6 | Chọn 1 case là case 4 thay vì gộp case 5 + 6. Hai lý do AI loại case 4 đã có cách xử lý trong card #1 (xem mục 4) |
+| CP4 Research | Lần 1: nhờ AI lập assumption map và kế hoạch kiểm chứng. Lần 2: nhờ AI viết lại assumption map cho case 4, tìm công cụ đã có và mở từng link để kiểm | Xếp giả định theo Value / Usability / Feasibility / Viability; nhắc phỏng vấn theo The Mom Test. Tìm ra Turnitin QuickMarks là đúng phương án No AI trong card #1 | Lần 1 viết cho case 5 + 6, không phải case 4. Lần 2 có 1 trong 5 nguồn mở không được, đã bỏ. AI ghi actor "chưa xác minh" và để giả định "có giáo viên thật" ở mức bằng chứng 1/5, trong khi tôi đang làm việc cùng team chuyên môn chấm bài Writing. Research chỉ là bằng chứng gián tiếp, không thay được phỏng vấn | Bắt viết lại cho case 4. Sửa phần actor: actor đã có (team chuyên môn), giả định #1 lên 5/5, kịch bản phỏng vấn chuyển sang hỏi giáo viên trong team. Khối lượng 30–50 bài/tuần vẫn để là ước tính vì chưa hỏi |
+| CP5 Quy trình | Nhờ AI dựng quy trình tương lai từ quy trình 6 bước trong card #1 | Đánh dấu rõ bước nào Rule / AI / Con người; thêm bước Rule đếm số từ trước bước AI | Số phút của quy trình tương lai là AI tự ước tính, chưa đo | Chưa sửa. Số phút chỉ thay được khi giáo viên trong team chuyên môn bấm giờ thật |
+| CP5–6 Problem Statement | Nhờ AI phản biện PS v0 rồi soạn PS v1 và 5 tiêu chí đánh giá | Chỉ ra "viết lại dưới 50%" và "band không lệch" chưa định nghĩa; chỉ ra nếu bottleneck là viết lại kiểu lỗi cũ thì bộ nhận xét mẫu có thể đã đủ | Baseline 18' vẫn chưa đo; AI đổi target từ dưới 10' thành dưới 12' | Sửa Actor trong PS v1 theo phần sửa ở CP4: actor có thật, chỉ số bài/tuần là chưa xác minh. Chưa rà lại target 12' |
+| CP6 Mức can thiệp / quyết định | Nhờ AI so 4 mức, điền AI Canvas, 2 câu hỏi PAIR, chấm 4 rủi ro | Tách rõ phần nào cần AI (đánh dấu lỗi, nháp nhận xét) với phần chỉ cần Rule (đếm số từ); đặt ngưỡng dừng có số cụ thể | Lý do "No AI chưa đủ" chưa có bằng chứng từ người dùng; câu augment hay automate mới là giả thuyết vì chưa phỏng vấn. Lý do của rủi ro Value ban đầu dựa trên "actor chưa xác minh", không đúng | Sửa lý do rủi ro Value: actor đã có, phần còn thiếu là bằng chứng về bước nào lâu nhất và bộ nhận xét mẫu có đủ không. Ngưỡng dừng đổi từ "không tìm được giáo viên" thành "giáo viên trong team chấm dưới 20 bài/tuần". Chưa rà lại mức Workflow và quyết định Not Yet |
 
 ---
 
@@ -181,20 +182,23 @@ HIỆN TẠI — khoảng 40 phút/đề, 12 câu sai (ước tính)
 
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
-**6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+**6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?** tôi thấy được nhiều góc nhìn hơn về các sản phẩm.
 
-**6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+**6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?** có, có những bài toán vì chưa hiểu rõ vấn đề từ đó giải pháp không thể đi đúng. Giải quyết bằng cách đào sâu lại vấn đề một cách từ đầu và làm rõ ràng  
 
-**6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+**6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.** Có ba lần đổi ý thật, đã ghi lại trong bài, bạn chọn một:
 
-**6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+Câu hỏi của bạn cùng lớp (bạn đã ghi ở mục 4, dòng 156): "việc chấm bài trực tiếp bằng AI thì sai số như thế nào". Đây là phản biện từ người thật nên đáng kể nhất.
+AI phản biện "Actor còn chung chung" (mục 3, bảng phản biện card #1): bạn đồng ý và thu hẹp actor thành giáo viên chấm bài online, 30–50 bài/tuần.
+AI phản biện "Bộ nhận xét mẫu có thể đã đủ": bạn đồng ý một phần và giữ nó làm phương án No AI, 
 
-**6.5. Điều khó nhất khi viết Problem Statement là gì?**
+**6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?** Tất nhiên là có, tôi nhận ra được vấn đề nên sửa ở đâu, biết nên lựa chọn phù hợp cho bài toán của mình.
 
-**6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
+**6.5. Điều khó nhất khi viết Problem Statement là gì?** Khó nhất là phân biệt giữa vấn đề thực sự của người dùng và những gì mình đang giả định. Đôi khi mình nghĩ đã hiểu vấn đề, nhưng khi đào sâu hơn mới nhận ra nguyên nhân thực sự nằm ở chỗ khác.
 
-**6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+**6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?** Nếu làm lại, tôi sẽ dành nhiều thời gian hơn để phân tích vấn đề trước khi đưa ra giải pháp. Tôi cũng sẽ phản biện nhóm nhiều hơn, đặc biệt ở những ý tưởng chưa có đủ cơ sở, chưa rõ nhu cầu người dùng hoặc chưa thực sự cần thiết.
 
+**6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình. - Đầu tiên, nhóm sẽ xác định vấn đề thực tế đang xảy ra, sau đó nhó sẽ bắt đầu phân tích để hiểu các vấn đề xảy ra ở đâu, nguyên nhân , đề ra giải pháp. Sau đó nhóm xác định các metric để đo lường sự hiệu quả của giải pháp, mức độ hài lòng của người dùng.Nhóm cũng xác định boundary để biết phạm vi AI được phép xử lý và những trường hợp cần có sự can thiệp của con người. Từ đó, nhóm đưa ra  mức độ phù hợp với AI, xem AI có nên đề xuất hay hỗ trợ. Cuối cùng, nhóm quyết định có thực sự cần AI hay chỉ cần một giải pháp thông thường là đủ. Mục tiêu quan trọng nhất là giải quyết đúng vấn đề của người dùng, chứ không phải cố gắng đưa AI vào mọi tính năng.
 ---
 
 ## 7. Tài liệu tham khảo
